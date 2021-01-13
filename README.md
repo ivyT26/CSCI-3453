@@ -3,5 +3,5 @@
 Operating Systems Labs
 
 Lab 1: fork and exec shell commands<br>
-Lab 2: CPU Scheduling<br>
-Lab 3:
+Lab 2: CPU Scheduling Algorithms Simulation<br>
+Lab 3: Page Replacement Algorithms Simulation
